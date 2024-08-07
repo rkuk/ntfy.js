@@ -1,0 +1,23 @@
+{
+    "name": "ntfy.js",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "ntfy client for publishing notifications with node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rkuk/ntfy.js.git"
+    },
+    "keywords": [
+        "ntfy"
+    ],
+    "author": "rkuk",
+    "license": "GPL-2.0",
+    "bugs": {
+        "url": "https://github.com/rkuk/ntfy.js/issues"
+    },
+    "homepage": "https://github.com/rkuk/ntfy.js#readme"
+}
